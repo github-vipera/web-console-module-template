@@ -57,7 +57,7 @@
     "tslint": "tslint"
   },
   "dependencies": {
-    "web-admin-core": "git+https://github.com/github-vipera/web-console-core.git"
+    "web-console-core": "git+https://github.com/github-vipera/web-console-core.git"
   },
   "peerDependencies": {
     "@angular/common": "^5.0.0",

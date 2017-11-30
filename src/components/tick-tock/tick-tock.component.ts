@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {PluginView} from 'web-admin-core'
+import {PluginView} from 'web-console-core'
 import { TickTockService } from '../../services';
 
 @Component({
